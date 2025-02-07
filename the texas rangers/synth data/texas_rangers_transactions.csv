@@ -1,0 +1,21 @@
+Transaction_ID,Date,Player,Transaction_Type,Details,Team_ID
+1,2024-03-16,Player 20,Contract Signing,Traded to Yankees,1
+2,2023-09-03,Player 16,Release,Signed for 3 years,1
+3,2024-03-22,Player 18,Contract Signing,Signed for 3 years,1
+4,2023-09-16,Player 4,Release,Signed for 3 years,1
+5,2023-06-19,Player 16,Contract Signing,Signed for 3 years,1
+6,2023-04-06,Player 10,Contract Signing,Released,1
+7,2023-10-02,Player 5,Release,Traded to Yankees,1
+8,2023-10-14,Player 2,Release,Released,1
+9,2023-05-25,Player 18,Release,Released,1
+10,2023-11-15,Player 15,Contract Signing,Traded to Yankees,1
+11,2023-12-14,Player 19,Release,Signed for 3 years,1
+12,2023-05-03,Player 14,Trade,Released,1
+13,2024-02-08,Player 5,Contract Signing,Released,1
+14,2023-05-19,Player 8,Trade,Released,1
+15,2023-08-25,Player 20,Contract Signing,Signed for 3 years,1
+16,2023-12-30,Player 2,Contract Signing,Signed for 3 years,1
+17,2023-07-23,Player 2,Release,Traded to Yankees,1
+18,2024-01-04,Player 1,Release,Traded to Yankees,1
+19,2023-09-09,Player 2,Release,Traded to Yankees,1
+20,2023-10-07,Player 19,Trade,Released,1
